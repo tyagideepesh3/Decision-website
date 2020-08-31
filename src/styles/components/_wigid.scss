@@ -1,0 +1,21 @@
+.wigid{
+    background: $light-blue;
+    margin-bottom: $l-size ;
+}
+.wigid_message{
+    color: $off-while;
+    margin: 0rem;
+    padding: $l-size;
+    text-align: center;
+    border-bottom: 1px solid darken($light-blue, 10%);
+}
+.wigid-header{
+    background: $blue;
+    color: $off-while;
+    display: flex;
+    justify-content: space-between;
+    padding: $m-size;
+}
+.wigid-header-title{
+    margin: 0rem ;
+}
